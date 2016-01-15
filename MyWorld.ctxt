@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment1.params=filename
+comment1.target=void\ loadRound(java.lang.String)
+comment2.params=filename
+comment2.target=java.util.ArrayList\ loadFile(java.lang.String)
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment4.params=s
+comment4.target=void\ printText(java.lang.String)
+comment5.params=
+comment5.target=void\ printLines()
+comment6.params=lineno
+comment6.target=void\ printLine(int)
+comment7.params=lineno
+comment7.target=void\ printQ(int)
+comment8.params=
+comment8.target=int\ getMaxLines()
+comment9.params=string\ length
+comment9.target=java.lang.String\ fixedLengthString(java.lang.String,\ int)
+numComments=10
